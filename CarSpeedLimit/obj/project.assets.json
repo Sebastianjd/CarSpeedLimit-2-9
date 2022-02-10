@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebas\\source\\repos\\CarSpeedLimit\\CarSpeedLimit.csproj",
+      "projectUniqueName": "C:\\Users\\Sebas\\Documents\\GitHub\\Projects\\CarSpeedLimit-2-9\\CarSpeedLimit\\CarSpeedLimit.csproj",
       "projectName": "CarSpeedLimit",
-      "projectPath": "C:\\Users\\Sebas\\source\\repos\\CarSpeedLimit\\CarSpeedLimit.csproj",
+      "projectPath": "C:\\Users\\Sebas\\Documents\\GitHub\\Projects\\CarSpeedLimit-2-9\\CarSpeedLimit\\CarSpeedLimit.csproj",
       "packagesPath": "C:\\Users\\Sebas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sebas\\source\\repos\\CarSpeedLimit\\obj\\",
+      "outputPath": "C:\\Users\\Sebas\\Documents\\GitHub\\Projects\\CarSpeedLimit-2-9\\CarSpeedLimit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
